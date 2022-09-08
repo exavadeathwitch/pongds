@@ -1,0 +1,1 @@
+num.o: num.s
